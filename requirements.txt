@@ -1,0 +1,11 @@
+flask
+flask_jwt_extended
+flask_limiter
+flask_compress
+flask_cors
+dotenv
+bcrypt
+marshmallow
+markupsafe
+flask_security_headers
+flask_wtf
